@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Subham Kumar Mishra
 - 👀 I’m interested in FullStack Devlopment
 - 🌱 I’m currently learning FullStack (HTML CSS JS PHP LARAVEL BOOTSTRAP)
-- 💞️ I’m currently intern at cotocus pvt ltd
 - 📫 subham8988@gmail.com
 
 <!---
